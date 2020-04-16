@@ -1,0 +1,5 @@
+{
+    "issuer": "https://accounts.google.com",
+    "clientId": "763434892669-soj8n5532q4lbg7tb7a2fu4ggqkqeem2.apps.googleusercontent.com",
+    "scopes": ["profile", "email"],
+}

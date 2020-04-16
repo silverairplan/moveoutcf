@@ -1,0 +1,14 @@
+[debug] [2019-10-05T01:25:32.650Z] ----------------------------------------------------------------------
+[debug] [2019-10-05T01:25:32.653Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\jws19\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2019-10-05T01:25:32.653Z] CLI Version:   7.3.2
+[debug] [2019-10-05T01:25:32.653Z] Platform:      win32
+[debug] [2019-10-05T01:25:32.653Z] Node Version:  v10.16.3
+[debug] [2019-10-05T01:25:32.655Z] Time:          Sat Oct 05 2019 09:25:32 GMT+0800 (GMT+08:00)
+[debug] [2019-10-05T01:25:32.656Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-05T01:25:32.671Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-05T01:25:32.672Z] > authorizing via signed-in user
+[debug] [2019-10-05T01:25:32.672Z] [iam] checking project moveout-ab6e5 for permissions ["cloudfunctions.functions.create","cloudfunctions.functions.delete","cloudfunctions.functions.get","cloudfunctions.functions.list","cloudfunctions.functions.update","cloudfunctions.operations.get","datastore.indexes.create","datastore.indexes.delete","datastore.indexes.list","datastore.indexes.update","firebase.projects.get"]
+[debug] [2019-10-05T01:25:32.674Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-10-05T01:25:32.674Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
